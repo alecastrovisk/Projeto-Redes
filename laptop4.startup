@@ -1,0 +1,5 @@
+#Configurações do IP
+ifconfig eth0 192.168.44.2/29
+
+#Configurações de roteamento
+#route add -net 192.168.44.3/29
