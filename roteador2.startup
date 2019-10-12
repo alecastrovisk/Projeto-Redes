@@ -1,7 +1,7 @@
 #Configurações do IP
 ifconfig eth0 192.168.11.1/28
 ifconfig eth1 192.168.18.2/30
-ifconfig eth1 192.168.22.1/30
+ifconfig eth2 192.168.22.1/30
 
 #Configurações de roteamento
 #route add default gw 192.168.18.1/30
