@@ -2,4 +2,4 @@
 ifconfig eth0 192.168.11.2/28
 
 #Configurações de roteamento
-route add default gw 192.168.11.1/28
+#route add default gw 192.168.11.1/28
