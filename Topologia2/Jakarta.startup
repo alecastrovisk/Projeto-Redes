@@ -4,5 +4,5 @@ ifconfig eth2 200.100.10.5/30
 
 #COnfigurações de roteamento
 route add default gw 200.100.10.6/30
-route add -net 200.100.10.0/30 gw 200.100.10.2
+route add -net 200.100.10.0/30 gw 200.100.10.2/30
 
