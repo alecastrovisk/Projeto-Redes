@@ -1,0 +1,8 @@
+#Configurações de IP  *Medan tem dois Ips pra poder se comunicar com 2 redes diferentes
+ifconfig eth0 192.168.10.1/24
+ifconfig eth1 200.100.10.2/30
+
+#Configurações de Roteamenteo
+route add default gw 200.100.10.1 
+
+
