@@ -3,5 +3,5 @@ ifconfig eth2 200.100.10.6/30
 ifconfig eth3 192.168.20.1/24
 
 #Configurações de rotemento
-route add default gw 200.100.10.5/30
+route add default gw 200.100.10.5
 
